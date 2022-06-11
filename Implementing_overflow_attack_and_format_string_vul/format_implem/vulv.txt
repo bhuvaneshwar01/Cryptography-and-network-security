@@ -1,0 +1,6 @@
+┌──(bhuvan㉿Bhuvaneshwar)-[/mnt/e/clg 6th sem/crypto&net security/implem/format]
+└─$ ./vuln 1234567890abcdef%n
+1234567890abcdef
+
+Cant be executed
+
